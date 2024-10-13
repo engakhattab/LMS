@@ -1,0 +1,14 @@
+./LMS/appsettings.json
+
+# Ignore Visual Studio files
+.vs/
+*.vsidx
+*.vscode/
+
+# Ignore JetBrains IDE (e.g., Rider, IntelliJ) files
+.idea/
+
+# Ignore temp and other unnecessary files
+*.log
+*.tmp
+*.swp
